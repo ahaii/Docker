@@ -24,4 +24,4 @@ For MongoDB:
 
 5.Use the following command to see the information of containor
 
-`#docker logs containor_name`
+`#docker inspect containor_name`
