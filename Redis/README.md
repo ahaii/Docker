@@ -11,7 +11,7 @@ For Redis:
 
 2.Create image:
 
-`#docker build -t master .`
+`#docker build -t redis-master .`
 
 3.Run the new image:
 
