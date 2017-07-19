@@ -1,3 +1,5 @@
-# Docker
+# Interoduce
 
-In this branch,i will write down how to deploy application by docker,MongoDB,Redis or angother.
+In this branch,i will write down how to deploy application use docker.
+
+MongoDB,Redis or angother.
